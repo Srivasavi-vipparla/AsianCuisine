@@ -1,6 +1,8 @@
 # AsianCuisine
 Individual Demonstration
 
+I am Creating a Asian Cuisine Webpage using Custom html elements.
+
 
 > What is meant by Custom HTML Element ?
 
@@ -43,7 +45,7 @@ adoptedCallback()
 
 
 
-> References
+## References
 
 * [Information about life cycle hooks](https://ultimatecourses.com/blog/lifecycle-hooks-in-web-components) 
 
