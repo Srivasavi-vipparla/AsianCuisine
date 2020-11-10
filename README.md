@@ -49,11 +49,11 @@ adoptedCallback()
 
 * [Information about life cycle hooks](https://ultimatecourses.com/blog/lifecycle-hooks-in-web-components) 
 
-* [Example](https://medium.com/recraftrelic/what-are-html-custom-elements-c6ffea9c4244) 
-
 * [creating-a-custom-element-from-scratch](https://css-tricks.com/creating-a-custom-element-from-scratch/)
 
 * [Fundamentals for Custom Elements](https://developers.google.com/web/fundamentals/web-components/customelements)
 
 * [WebComponents](https://www.html5rocks.com/en/tutorials/webcomponents/customelements/)
+
+* [Example](https://medium.com/recraftrelic/what-are-html-custom-elements-c6ffea9c4244) 
 
