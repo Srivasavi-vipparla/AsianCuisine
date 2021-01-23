@@ -42,7 +42,7 @@ adoptedCallback()
 
 [Sri Vasavi Vipparla](https://github.com/Srivasavi-vipparla)  
 
-> [Demonstration Link ](https://app.vidgrid.com/view/iHcsthur0qKr)
+> [Demonstration Link ]
   
 
 
